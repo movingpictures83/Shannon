@@ -1,0 +1,2 @@
+Prefix plugins/Shannon/example
+Plugin Shannon inputfile parameters.txt outputfile shannon
